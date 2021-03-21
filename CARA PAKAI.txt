@@ -1,0 +1,24 @@
+masukkan 
+username: utsmobile
+pass: utsmobilegenap
+
+lalu klik login
+
+pada tampilan yang sudah masuk kita langsung disuguhkan musik yang tersedia, lalu tombol titik 3 bisa di tekan untuk menampilkan profile
+dan untuk logout. untuk musik sendiri karena aplikasi saya tidak dapat membaca dari file yang ada di handphone jadi saya gunakan cara week 7 dengan
+menarik dari file raw. 
+
+untuk music playernya sendiri tampilan nya biasa saja sama seperti tampilan pada umumnya, nah jika file terakhir sudah tercapai saat kita tekan tombol 
+next akan kembali dan muncul alert sama seperti saat kita sudah login.
+
+kekurangan: 
+-tampilan biasa aja 
+-gambar nabrak-nabrak
+-tidak ada page tampilan awal karena saya mengerjakannya tidak berurutan (ditakutkan kalau diganti ganti error dan tidak bisa di build)
+- tidak dapat membaca file yang ada di handphone, jadi saya melakukan sama seperti week 7 (menggunakan file raw untuk menarik data musiknya)
+
+
+
+*note: 
+kalau dijalankan di bluestacks tidak ada suara musiknya (sudah di test di bluestack sendiri)
+

@@ -56,13 +56,13 @@ public class MainActivity extends AppCompatActivity {
 
 
         songList= new ArrayList<Song>();
-        songList.add(new Song(R.raw.chanyeol_punch, "Chanyeol_Punch.mp3"));
+
         songList.add(new Song(R.raw.itzy_wannabe, "itzy_wannabe.mp3"));
-        songList.add(new Song(R.raw.surfaces_sundaybest, "surfaces_sundaybest.mp3"));
+
         songList.add(new Song(R.raw.iu_dearname, "iu_dearname.mp3"));
-        songList.add(new Song(R.raw.demonslayer_kimetsunoyaiba, "demonslayer_kimetsunoyaiba.mp3"));
+
         songList.add(new Song(R.raw.taeyeon_i, "taeyeon_i.mp3"));
-        songList.add(new Song(R.raw.iu_pallete, "iu_pallete.mp3"));
+
         songList.add(new Song(R.raw.oh_my_girl_dolphin,"oh_my_girl_dolphin.mp3"));
         songList.add(new Song(R.raw.bts_dope, "bts_dope.mp3"));
         songList.add(new Song(R.raw.snsd_lionheart, "snsd_lionheart.mp3"));

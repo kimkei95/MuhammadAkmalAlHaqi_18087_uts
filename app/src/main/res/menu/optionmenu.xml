@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itMP"
+        android:title="My Profile"
+        app:showAsAction="never"/>
+
+<!--    <item-->
+<!--        android:id="@+id/itSA"-->
+<!--        android:title="Sort Ascending"-->
+<!--        app:showAsAction="never" />-->
+<!---->
+<!--    <item-->
+<!--        android:id="@+id/itSD"-->
+<!--        android:title="Sort Descending"-->
+<!--        app:showAsAction="never"/>-->
+
+    <item
+        android:id="@+id/itLogout"
+        android:title="Log Out"
+        app:showAsAction="never"/>
+</menu>

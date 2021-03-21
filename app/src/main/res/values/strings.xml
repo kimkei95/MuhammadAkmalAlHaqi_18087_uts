@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusikAing</string>
+    <string name="user_name">username kamu</string>
+    <string name="password">Pw kamu</string>
+    <string name="login">Login</string>
+    <string name="musik">daftar musik</string>
+
+</resources>
